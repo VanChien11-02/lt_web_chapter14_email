@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 20px;
+}
+
+h1 {
+    color: #008080;
+}
+
+h2 {
+    color: #008080;
+    font-size: 18px;
+}
+
+label {
+    display: inline-block;
+    min-width: 100px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"] {
+    width: 150px;
+    margin-bottom: 5px;
+}
